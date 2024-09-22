@@ -39,9 +39,10 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 
 <br/>
+<br/>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SiamAnzir&show_icons=true&locale=en&theme=vue-dark" ></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SiamAnzir&show_icons=true&locale=en&theme=vue-dark" >
 </p>
 
 <br/>
